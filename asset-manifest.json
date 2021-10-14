@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/iza/static/css/main.5ed6b5da.chunk.css",
+    "main.js": "/iza/static/js/main.fb80cd1f.chunk.js",
+    "main.js.map": "/iza/static/js/main.fb80cd1f.chunk.js.map",
+    "runtime-main.js": "/iza/static/js/runtime-main.95e5b9a1.js",
+    "runtime-main.js.map": "/iza/static/js/runtime-main.95e5b9a1.js.map",
+    "static/js/2.49a328bb.chunk.js": "/iza/static/js/2.49a328bb.chunk.js",
+    "static/js/2.49a328bb.chunk.js.map": "/iza/static/js/2.49a328bb.chunk.js.map",
+    "static/js/3.b4b798b9.chunk.js": "/iza/static/js/3.b4b798b9.chunk.js",
+    "static/js/3.b4b798b9.chunk.js.map": "/iza/static/js/3.b4b798b9.chunk.js.map",
+    "index.html": "/iza/index.html",
+    "static/css/main.5ed6b5da.chunk.css.map": "/iza/static/css/main.5ed6b5da.chunk.css.map",
+    "static/js/2.49a328bb.chunk.js.LICENSE.txt": "/iza/static/js/2.49a328bb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/iza/static/media/background.1df3f3ca.jpg",
+    "static/media/iza6.975c29d0.png": "/iza/static/media/iza6.975c29d0.png",
+    "static/media/whatsapp.ccf92eda.png": "/iza/static/media/whatsapp.ccf92eda.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95e5b9a1.js",
+    "static/js/2.49a328bb.chunk.js",
+    "static/css/main.5ed6b5da.chunk.css",
+    "static/js/main.fb80cd1f.chunk.js"
+  ]
+}
