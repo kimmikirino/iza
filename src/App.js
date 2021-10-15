@@ -9,15 +9,15 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    <Router >
       <Switch>
-        <Route exact path="/">
+        <Route exact path={process.env.REACT_APP_ENV + '/'}>
           <Home />
         </Route>
-        <Route path="/iza">
+        <Route path={process.env.REACT_APP_ENV + "/iza"}>
           <Home />
         </Route>
-        <Route path="/mais">
+        <Route path={process.env.REACT_APP_ENV + "/mais"}>
           <More />
         </Route>
       </Switch>
