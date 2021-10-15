@@ -7,7 +7,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(12px + 2vmin);
   width: 100%;
   background-repeat: repeat-y;
 }
@@ -36,17 +36,16 @@
 }
 
 .board img {
-  max-width: 90%;
+  max-width: 100%;
 }
 
 h1 {
-  color: red;
+  color: #ff0000;
   margin: 0;
 }
 
 h2 {
   margin: 0;
-  margin-bottom: 10px;
 }
 
 p {
@@ -99,17 +98,16 @@ a {
   transform: rotate(45deg);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.reward {
+  background: #ff0000;
+  font-size: 35px;
+  color: white;
+  font-weight: bold;
+  border-radius: 4px;
+  width: 100%;
 }
 
-@media (min-width: 500px)
-{
+@media (min-width: 500px) {
   .board {
     max-width: 450px;
     /* max-height: 85vh; */
